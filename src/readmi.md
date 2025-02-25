@@ -9,4 +9,4 @@ La siguiente declaración DEDO  SQL devuelve todos los registros DEDO  una tabla
  O
  U
  OKya quedo
- 
+ fin
