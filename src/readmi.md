@@ -10,3 +10,9 @@ La siguiente declaración DEDO  SQL devuelve todos los registros DEDO  una tabla
  U
  OKya quedo
  fin
+ <<!-- HOLI -->HTML
+NEW;<
+ 
+  MN
+  >
+  
