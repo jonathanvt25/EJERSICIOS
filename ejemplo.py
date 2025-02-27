@@ -16,3 +16,4 @@ print("papu")
 
 
 print(f"suma: 10+3= {10+3}")
+print(f"resta: 788952-56= {7855-85}")
